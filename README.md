@@ -1,16 +1,16 @@
-### Hi there 👋 I am Shekh Humaira Sunzida
+## Hi there 👋 I am Shekh Humaira Sunzida ##
 ---
-#### About me: ####
+### About me: ###
 I am a student.Completing my graduation from Comilla University in ICT.
 
 - 🌱 I’m currently learning PHP
 - ⚡ Fun fact: I love to singing,imagine,learn & explore new things.
 ---
-#### Connect with me: ####
-![facebook](https://www.facebook.com/sunzida.alpa/)
-![gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
+### Connect with me: ###
+[facebook](https://www.facebook.com/sunzida.alpa/)
+[gmail](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
 ---
-#### Languages & Tools: ####
+### Languages & Tools: ###
 ```C``` ```C++``` ```GIT``` ```GITHUB```
 ---
-##### Thanks for visiting my profile #####
+#### Thanks for visiting my profile ####
