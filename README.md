@@ -24,10 +24,10 @@ I am Sunzida from bangladesh and I really enjoy to working on different research
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunzida311&show_icons=true&locale=en&layout=compact" width='350' height='100' alt="sunzida311" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunzida311&" alt="sunzida311" width='300' height='100' />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunzida311&show_icons=true&locale=en" alt="sunzida311" width='300' height='100' /><br></p>
-<p><img align="left" src="https://api.vaunt.dev/v1/github/entities/sunzida311/contributions?format=svg&private=true" alt="sunzida311" width='350' height='300' />
-<img align="right" src="https://github.com/user-attachments/assets/f93edccd-6953-4b43-b24b-14685948e268" alt="sunzida311" width='500' height='300' /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunzida311&show_icons=true&locale=en&layout=compact" width='25%' height='100px' alt="sunzida311" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sunzida311&" alt="sunzida311" width='25%' height='100px' />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=sunzida311&show_icons=true&locale=en" alt="sunzida311" width='25%' height='100px' /><br></p>
+<p><img align="left" src="https://api.vaunt.dev/v1/github/entities/sunzida311/contributions?format=svg&private=true" alt="sunzida311" width='35%' height='300px' />
+<img align="right" src="https://github.com/user-attachments/assets/f93edccd-6953-4b43-b24b-14685948e268" alt="sunzida311" width='50%' height='300px' /></p>
 
 
