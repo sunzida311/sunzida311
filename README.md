@@ -1,9 +1,12 @@
 [<img src='https://github.com/user-attachments/assets/eeb7ac51-21b7-4075-b10b-303f6b0b9380' alt='Shekh Humaira Sunzida' height='340' width='1280'>](https://github.com/user-attachments/assets/eeb7ac51-21b7-4075-b10b-303f6b0b9380)
 
+---
+
 <h5>I am Sunzida from bangladesh and I really enjoy to working on different research based projects on the feild of AI and ML and others. I love to learn new languages and framework like Python, React and explore new librabries of different languages.</h5>
+
 ---
 - 🌱 I’m currently working on some research projects.
-- ⚡ Fun fact: I love to singing, imagine, learn & explore new things.
+- ⚡ Fun fact: I love to sing, imagine, learn & explore new things.
 ---
 
 <h3 align="left">Languages and Tools:</h3>
